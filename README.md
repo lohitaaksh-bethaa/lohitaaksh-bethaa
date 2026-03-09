@@ -50,5 +50,7 @@ End-to-end analysis of sales performance across regions.
 ### Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/lohitaaksh-bethaa-668887227/
+
 Portfolio: https://insight-canvas-0440.lovable.app/
+
 Email: lohitaakshb@gmail.com
