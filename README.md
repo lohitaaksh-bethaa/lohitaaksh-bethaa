@@ -51,4 +51,4 @@ LinkedIn: https://www.linkedin.com/in/lohitaaksh-bethaa-668887227/
 
 Portfolio: https://insight-canvas-0440.lovable.app/
 
-Email: lohitaakshb@gmail.com
+Email: lohitaakshbethaa@gmail.com
